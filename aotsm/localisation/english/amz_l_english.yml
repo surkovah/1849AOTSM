@@ -1,0 +1,46 @@
+﻿l_russian: 
+
+ #effect
+ 
+ AMZ_tribal_assembly_complete:0 "Tribal meeting comes to an end"
+ 
+ #flag
+ 
+ AMZ_soc:0 "Red Rose Clan"
+ AMZ_dem:0 "Blue Eagle Clan" 
+ AMZ_rea:0 "Black Snake Clan"
+ AMZ_auth:0 "Grey Lizard Clan"
+ 
+ #focus
+ 
+ AMZ_tribal_assembly:0 "Gathering of tribes"
+ AMZ_tribal_assembly_desc:0 "It's time to solve our problems. To this end, we will arrange an assembly of all the major tribes of our union, where the most important issues of our state will be raised."
+ AMZ_tribal_socialism:0 "Rose's Victory"
+ AMZ_tribal_socialism_desc:0 "Today, the leader of our state has become the leader of the Rose tribe. Now our path is set on building a state similar to Europe's. Now we will begin the transition from a tribal union to a revolutionary republic"
+ AMZ_tribal_democratic:0 "Eagle Victory"
+ AMZ_tribal_democratic_desc:0 "Today the leader of our state has become the leader of the Eagle tribe. Now our path is set on building a state similar to the European state. Now we will begin the transition from a tribal union to a republic."
+ AMZ_tribal_reactionism:0 "Snake's Victory"
+ AMZ_tribal_reactionism_desc:0 "Today the leader of our state has become the leader of the Snake tribe. Now our path is set on building a European-like state. Now we will begin the transition from tribal alliance to empire."
+ AMZ_tribal_autharitarian:0 "Victory Lizard"
+ AMZ_tribal_autharitarian_desc:0 "Today the leader of our state has become the leader of the Lizard tribe. Now our path is set on building a European-like state. Now we will begin the transition from tribal alliance to kingdom."
+ 
+ #event
+ 
+  amz.1.t:0 "Religious Issue"
+  amz.1.d:0 "We have believed for years in what our ancestors believed, but time shows that this belief has only stunted our development. Therefore, we must find a new approach to belief."
+  amz.1.a:0 "The Pope is a very interesting man"
+  amz.1.b:0 "Religion, what will help us restrain ourselves?"
+  amz.1.c:0 "Asia's major religion"
+  amz.1.f:0 "Don't piss off ancestors"
+  amz.2.t:0 "European Friends"
+  amz.2.d:0 "It is time to establish relations with European countries, for without external relations we cannot develop quickly so that our neighbors will no longer be dangerous."
+  amz.2.a:0 "British"
+  amz.2.b:0 "French"
+  amz.2.c:0 "Germans"
+  amz.2.f:0 "Romei" 
+  amz.3.t:0 "New leader"
+  amz.3.d:0 "Today the main question is who will be the next leader of our state. We have four candidates, all of them chiefs of the main tribes. Chief Rosa - an ideologue of a new current in the state system. Chief Eagle - an ideologue of free and independent views, striving for a free state. The Snake Chief - states that we can build a modern and strong state without the help of Europeans. Leader of the Lizard - the most mysterious person, no one can say what is in his head and what his choice will result in."
+  amz.3.a:0 "Сhief Rose"
+  amz.3.b:0 "Chief Eagle"
+  amz.3.c:0 "Snake Chief"
+  amz.3.f:0 "Chief Lizard"  
