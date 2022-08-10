@@ -1,0 +1,39 @@
+﻿ l_english:
+MODIFIER_AIR_DOCTRINE_COST_FACTOR:0 "Air Doctrine Cost
+MODIFIER_LAND_DOCTRINE_COST_FACTOR:0 "Land Doctrine Cost
+MODIFIER_NAVAL_DOCTRINE_COST_FACTOR:0 "Naval Doctrine Cost
+MODIFIER_COMMAND_ABILITIES_COST_FACTOR:0 "Command Resource Cost
+cat_mobile_warfare_cost_factor:0 "Mobile warfare doctrine cost"
+aircraft_manufacturer:0 "Aircraft constructor"
+materiel_manufacturer:0 "materiel constructor"
+authoritarian_acceptance:0 "Acceptance of authoritarian diplomatic actions"
+reactionist_acceptance:0 "Acceptance of reactionary diplomatic actions"
+modifier_production_speed_supply_node_factor:0 "Construction speed §Үnodes of supply§!"
+modifier_production_speed_rail_way_factor:0 "Construction speed of §Үrail tracks§!"
+anti_reactionist_raids:0 "Anti-reactionist raids"
+anti_socialism_raids:0 "Anti-socialist raids"
+ban_reactionist_party:0 "Ban reactionary parties"
+ban_socialism_party:0 "Ban socialist parties"
+institute_press_censorship_socialism_state:0 "Press censorship"
+institute_press_censorship_reactionist_state:0 "Press Censorship"
+institute_press_censorship_authoritarian_state:0 "Press Censorship"
+institute_press_censorship_democratic_state:0 "Press Censorship"
+socialism_drift:0 "Daily support for socialism"
+reactionist_drift:0 "Daily support for reactionism.
+authoritarian_drift:0 "Daily support for authoritarianism.
+democratic_drift:0 "Daily support for democracy
+socialism_revolutionary:0 "Socialist"
+available_political_advisor:0 "§Good_Advisor!
+available_chief_of_army:0 "§Good to appoint §Ү army commander§!:\n"
+available_chief_of_navy:0 "§Good to appoint §Үcommander-in-chief of the Navy§!:\n"
+available_chief_of_airforce:0 "§Good to appoint §§Head of the Air Force§!:\n"
+available_military_high_command:0 "§Can be made commander-in-chief§!:\n"
+available_theorist:0 "§Can be §§theorist§!:\n"
+available_designer:0 "§Good for §Үdesigner§!:\n"
+available_industrial_concern:0 "§Good to use as an industrial concern§!:\n"
+remove_political_advisor:0 "§Remove! from the position of §§political_advisor§!:\n"
+remove_chief_of_army:0 "§Remove§! as §Ү army commander§!:\n"
+remove_chief_of_navy:0 "§Remove! from the post of §Үcommander-in-chief of the Navy§!:\n"
+remove_chief_of_airforce:0 "§Remove_of_airforce§!:\n"
+remove_military_high_command:0 "§Remove§! as §Heir Commanding General§!:\n"
+remove_theorist:0 "§Remove as §theorist§!:\n"
