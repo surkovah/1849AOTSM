@@ -1,0 +1,10 @@
+﻿l_russian:
+ FOCUS_FILTER_POLITICAL:0 "Политика"
+ FOCUS_FILTER_RESEARCH:0 "Исследования"
+ FOCUS_FILTER_INDUSTRY:0 "Промышленность"
+ FOCUS_FILTER_STABILITY:0 "Стабильность"
+ FOCUS_FILTER_WAR_SUPPORT:0 "Поддержка войны"
+ FOCUS_FILTER_MANPOWER:0 "Людские ресурсы"
+ FOCUS_FILTER_ANNEXATION:0 "Территориальная экспансия"
+ FOCUS_FILTER_TFV_AUTONOMY:0 "Автономия"
+

@@ -1,0 +1,847 @@
+﻿l_english:
+
+ #Decisions categoria
+ 
+ biz_senat_decision_category:0 "Decisions related to the Romei Senate"
+ byz_hellenization_of_bulgaria_categories:0 "Solutions related to the Hellenization of Bulgarian lands"
+ byz_hellenization_of_albania_categories:0 "Solutions related to the Hellenization of the Albanian lands"
+ byz_hellenization_of_serbia_categories:0 "Solutions related to the Hellenization of Serbian lands"
+ byz_hellenization_of_bosnia_categories:0 "Solutions related to Hellenization of Bosnian lands"
+ byz_hellenization_of_croatia_categories:0 "Decisions related to the Hellenization of Croatian lands"
+ byz_persia_civil_war:0 "Persian Civil War"
+
+ #Decisions
+ 
+byz_imperium_donat:0 "Imperial Grace"
+byz_imperium_donat_desc:0 "The Imperial faction has always been famous for its generosity towards the Senate. Therefore, it is necessary to show your best side this month."
+
+byz_people_help:0 "Popular support"
+byz_people_help_desc:0 "We cannot leave the chances of our opponents to control the Senate. Therefore, we will start changing their opinions in different ways."
+ 
+byz_civil_donation:0 "Bribery of officials"
+byz_civil_donation_desc:0 "Now we need the support of all parts of parliament, so we will have to make such sacrifices."
+ 
+byz_grow_army:0 "Army buildup"
+byz_grow_army_desc:0 "The military demands to increase the number of soldiers, so let's satisfy their demand."
+
+biz_trade_next:0 "Open sales markets"
+biz_trade_next_desc:0 "We will have to open up sales markets so that merchants will take our side."
+
+byz_bulgaria_war_missia:0 "Battle for Bulgaria"
+byz_bulgaria_war_missia_desc:0 "We must seize their lands as soon as possible before other European powers take measures against us."
+
+biz_albania_war_missia:0 "The Battle for Albania"
+byz_albania_war_missia_desc:0 "We must seize their lands as soon as possible before other European powers take measures against us."
+byz_serbia_war_missia:0 "Battle for Serbia"
+byz_serbia_war_missia_desc:0 "We must seize their lands as soon as possible before other European powers take measures against us."
+
+biz_bosnia_war_missia:0 "Battle for Bosnia"
+biz_bosnia_war_missia_desc:0 "We must seize their lands as soon as possible before other European powers take measures against us."
+
+biz_malta_war_missia:0 "The Battle for Malta" biz_malta_war_missia_desc:0 "We have very little time to capture this island. If we delay, we may lose the chance to capture this island." 
+byz_active_help:0 "Support Parthia"
+byz_active_help_desc:0 ""
+
+byz_give_menpower:0 "Send volunteers"
+byz_give_menpower_desc:0 ""
+byz_give_equipment:0 "Transfer weapons"
+biz_give_equipment_desc:0 ""
+ 
+#Bulgaria
+ 
+byz_hellenization_of_bulgaria_complet_decision:0 "Nationalization of Bulgarian lands"
+byz_hellenization_of_bulgaria_complet_decision_desc:0 ""
+
+byz_annex_of_dobruja_decision:0 "Entry of troops into Dobrudja"
+byz_annex_of_dobruja_decision_desc:0 ""
+
+byz_invest_in_bulgaria_land:0 "Invest in Bulgarian industry"
+byz_invest_in_bulgaria_land_desc:0 ""
+
+byz_reorganis_bulgaria_land:0 "Reorganize Bulgarian lands"
+byz_reorganis_bulgaria_land_desc:0 ""
+
+byz_timed_hellenize_bulgaria:0 "Hellenization process"
+byz_timed_hellenize_bulgaria_desc:0 ""
+ 
+byz_change_education_bulgaria:0 "Changes in the local education system"
+byz_change_education_bulgaria_desc:0 ""
+
+byz_change_laws_bulgaria:0 "Changing local statutes"
+byz_change_laws_bulgaria_desc:0 ""
+
+byz_translation_book_bulgaria:0 "Translation of Bulgarian literature into Greek only"
+byz_translation_book_bulgaria_desc:0 ""
+
+byz_change_religion_bulgaria:0 "Return to the true faith"
+biz_change_religion_bulgaria_desc:0 ""
+ 
+#Albania
+biz_hellenization_of_albania_complet_decision:0 "Nationalization of the lands of Albania"
+byz_hellenization_of_albania_complet_decision_desc:0 ""
+
+biz_return_old_name_albania:0 "Return the old name"
+byz_return_old_name_albania_desc:0 ""
+
+byz_exile_catholics_albania:0 "Expulsion of Catholics"
+byz_exile_catholics_albania_desc:0 ""
+
+biz_reorganiz_albania_land:0 "Reorganize the Albanian lands"
+biz_reorganiz_albania_land_desc:0 ""
+
+biz_new_religion_albania:0 "Return to the true faith"
+biz_new_religion_albania_desc:0 ""
+
+biz_timed_hellenize_albania:0 "The Process of Hellenization"
+biz_timed_hellenize_albania_desc:0 ""
+ 
+#Serbia 
+biz_hellenization_of_serbia_complet_decision:0 "Nationalization of the lands of Serbia"
+biz_hellenization_of_serbia_complet_decision_desc:0 ""
+
+biz_invest_in_serbia_land:0 "Invest in Serbian industry"
+biz_invest_in_serbia_land_desc:0 ""
+ 
+biz_reorganiz_serbia_land:0 "Reorganize Serbian lands"
+biz_reorganise_serbia_and_desc:0 ""
+ 
+byz_strengthen_north_border_serbia:0 "Erect the Shaft of August"
+biz_strengthen_north_border_serbia_desc:0 ""
+
+biz_new_religion_serbia:0 "Return to the true faith"
+biz_new_religion_serbia_desc:0 ""
+
+biz_timed_hellenize_serbia:0 "Hellenization process"
+biz_timed_hellenize_serbia_desc:0 ""
+ 
+#Bosnia 
+biz_hellenization_of_bosnia_complet_decision:0 "Nationalization of the lands of Bosnia"
+byz_hellenization_of_bosnia_complet_decision_desc:0 ""
+
+byz_return_old_name_bosnia:0 "Bosnia — now Dalmatia"
+biz_return_old_name_bosnia_desc:0 ""
+
+biz_invest_in_bosnia_and:0 "Invest in Bosnian industry"
+biz_invest_in_bosnia_and_desc:0 ""
+ 
+biz_reorganiz_bosnia_and:0 "Reorganization of the Bosnian land"
+biz_reorganise_bosnia_and_desc:0 ""
+ 
+biz_new_religion_bosnia:0 "Return to the true faith"
+biz_new_religion_bosnia_desc:0 ""
+ 
+biz_timed_hellenize_bosnia:0 "Hellenization process"
+biz_timed_hellenize_bosnia_desc:0 ""
+ 
+ #Croatia
+ 
+byz_hellenization_of_croatia_complex_decision:0 "Nationalization of Croatian-Slovenian lands"
+byz_hellenization_of_croatia_complet_decision_desc:0 ""
+
+byz_return_old_name_croatia:0 "Expand Dalmatia"
+byz_return_old_name_croatia_desc:0 ""
+
+biz_invest_in_croatia_land:0 "Invest in Croatian-Slovenian lands"
+biz_invest_in_croatia_land_desc:0 ""
+ 
+biz_reorganiz_croatia_land:0 "Reorganize the Croatian-Slovenian lands"
+biz_reorganiz_croatia_land_desc:0 ""
+ 
+byz_strengthen_north_border_croatia:0 "Erect the Shaft of Constantine"
+byz_strengthen_north_border_croatia_desc:0 ""
+ 
+byz_rebuild_palace_of_diocletian:0 "Restore Diocletian's Palace"
+byz_rebuild_palace_of_diocletian_desc:0 ""
+
+biz_new_religion_croatia:0 "Return to the true faith"
+biz_new_religion_croatia_desc:0 ""
+ 
+biz_timed_hellenize_croatia:0 "Hellenization process"
+biz_timed_hellenize_croatia_desc:0 ""
+ 
+#Scripted GUIs
+
+semicircle_saat_gui_title:0 "Roman Senate"
+
+senat_imperator_of_biz_t:0 "Emperor Romeyev:"
+senat_imperator_name_t:0 "§H[?[ROOT.GetLeader]§!"
+ 
+senat_ruling_party_t:0 "The ruling faction of the Senate:"
+senat_ruling_party_name_t:0 "[rolling_faction_of_biz]"
+
+senat_ruling_party_place_among_t:0 "[rolling_faction_of_biz_place] your faction's seat"
+ 
+#senat_rulling_faction_t:0 "[?]"
+senat_faction_name_t:0 "The name of the faction and the number of seats in the Senate."
+
+senat_faction_imperial_t:0 "§0 Imperial faction§! number of seats:"
+senat_faction_generals_t:0 "§General's Faction§! number of seats:"
+senat_faction_merchants_t:0 "§Trading faction§! number of seats:"
+senat_faction_democrats_t:0 "§2 People's faction§! number of seats:"
+senat_faction_place_t:0 "How many seats are there in the Senate:"
+
+senat_faction_imperial_amount_t:0 "[?by_imperial_faction_support] in the Senate"
+senat_faction_generals_amount_t:0 "[?buzz_generals_faction_support] in the Senate"
+senat_faction_merchants_amount_t:0 "[?biz_merchants_faction_support] in the Senate"
+senat_faction_democrats_amount_t:0 "[?buzz_democrats_faction_support] in the Senate"
+senat_faction_place_amount_t:0 "200 seats"
+ 
+#Hellenization 
+#Bulgaria
+
+hellen_bul_name_t:0 "Hellenization process of Bulgaria"
+helen_ball_progress_t:0 "How long is the process completed:"
+
+helen_ball_progress_amount_t:0 "[?byz_hellenization_of_bulgaria_var] %"
+ 
+#Albania
+ 
+hellen_alb_name_t:0 "The process of Hellenization of Albania"
+helen_and_progress_t:0 "How complete is the process:"
+helen_all_progress_amount_t:0 "[?byz_hellenization_of_albania_var] %"
+#Serbia 
+hellen_ser_name_t:0 "The process of Hellenization of Serbia"
+
+helen_sar_progress_t:0 "How long is the process completed:"
+helen_sar_progress_amount_t:0 "[?byz_hellenization_of_serbia_var] %"
+#Bosnia
+
+hellen_bot_name_t:0 "The Hellenization process of Bosnia"
+
+helen_boys_progress_t:0 "How long is the process completed:"
+
+helen_boys_progress_amount_t:0 "[?byz_hellenization_of_bosnia_var] %"
+ 
+#Croatia 
+
+helen_ko_name_t:0 "The process of Hellenization of Croato-Slovenia"
+
+hellen_crop_progress_t:0 "How complete is the process:"
+
+helen_crop_progress_amount_t:0 "[?biz_hellenization_of_croatia_hvar] %
+ 
+#custom effect
+
+byz_hellen_bul_5:0 "§G will increase the process of Hellenization of Bulgarian lands by 5%§!"
+byz_hellen_bul_10:0 "§G will increase the process of Hellenization of Bulgarian lands by 10%§!"
+byz_hellen_bul_15:0 "§G will increase the process of Hellenization of Bulgarian lands by 15%§!"
+byz_hellen_ser_5:0 "§G will increase the process of Hellenization of Serbian lands by 5%§!"
+byz_hellen_ser_15:0 "§G will increase the process of Hellenization of Serbian lands by 15%§!"
+byz_hellen_ser_20:0 "§G will increase the process of Hellenization of Serbian lands by 20%§!"
+byz_hellen_alb_10:0 "§G will exaggerate the process of Hellenization of the Albanian lands by 10%§!"
+byz_hellen_alb_15:0 "§G will increase the process of Hellenization of the Albanian lands by 15%§!"
+byz_hellen_alb_20:0 "§G will increase the process of Hellenization of the Albanian lands by 20%§!"
+byz_hellen_alb_50:0 "§g will increase the process of Hellenization of Albanian lands by 50%§!"
+byz_hellen_bos_10:0 "§G will increase the process of Hellenization of Bosnian lands by 10%§!"
+byz_hellen_bos_15:0 "§G will increase the process of Hellenization of Bosnian lands by 15%§!"
+byz_hellen_cro_5:0 "§G will increase the process of Hellenization of Croatian-Slovenian lands by 5%§!"
+biz_hellen_cro_10:0 "§G will increase the process of Hellenization of Croatian-Slovenian lands by 10%§!"
+byz_hellen_cro_15:0 "§G will increase the process of Hellenization of the Croatian-Slovenian lands by 15%§!"
+biz_merchants_support:0 "§Trade faction§! there will be §G 5 seats will be obtained §!\n§0 Imperial fraction§! 5 seats will be lost§!"
+byz_general_suppression:0 "§2National fraction§! there will be §G 5 seats will be obtained §!\n§The trade faction§! there will be §G 5 seats will be obtained §!\n§Ggeneral fraction§! 10 seats will be lost§!"
+byz_democrats_support:0 "§2National fraction§! there will be §G 5 seats will be obtained §!\n§0 Imperial fraction§! 5 seats will be lost§!"
+
+biz_politic_way:0 "§The policy direction for the next year will be decided§!."
+byz_senat_meeting_event:0 "An event will occur §The annual meeting of the Senate§!."
+byz_bonus_via_take_focus:0 "The effect of this focus will depend on the choices in past focuses."
+
+byz_10i_m5_d5:0 "§0 The Imperial faction received 10 seats at the expense of the People's and Trade Faction!§!"
+byz_imperium_donat_1:0 "§0 The Imperial faction will get 15 seats at the expense of other factions§!"
+byz_imperium_donat_2:0 "§0 The Imperial faction will get 10 seats at the expense of other factions§!"
+byz_imperium_donat_3:0 "§0 The Imperial faction will get 5 seats at the expense of other factions§!"
+byz_people_help_1:0 "§Trading fraction§! there will be §G 5 seats will be obtained §!\n§2National fraction§! there will be §G 5 seats will be obtained §!\n§0 Imperial fraction§! 5 seats will be lost §R!\n§Ggeneral fraction§! 5 seats will be lost§!"
+byz_people_help_2:0 "§2National fraction§! there will be §G 5 seats will be obtained §!\n§Ggeneral fraction§! 5 seats will be lost§!"
+byz_people_help_3:0 "§The trading faction§! there will be §G 5 seats will be obtained §!\n§0 Imperial fraction§! 5 seats will be lost§!"
+imperialist_angry:0 "§The Imperial faction loses loyalty§!"
+generals_angry:0"§The generalist faction is angry§!"
+byz_losses_hight:0 "§The losses continue to grow!§!"
+
+biz_general_more_angry:0 "§R Exaggerates the chance of a military coup!§!"
+byz_general_more_peace:0 "§G downplays the chance of a military coup.§!"
+ 
+byz_serbia_border_defend_line:0 "§A second-level defensive line will be constructed along the entire outer border of the former territories of Serbia§!."
+byz_croatia_border_defend_line:0 "§A second-level defensive line will be constructed along the entire outer border of the former territories of Croatia and Slovenia§!."
+ 
+byz_civil_donation_fail:0 "§2National fraction§! there will be §G 5 seats will be obtained §!\n§0 Imperial fraction§! 5 seats will be lost§!"
+biz_civil_donation_succed:0"§0 Imperial faction§! there will be §G 5 seats will be obtained §!\n§2National fraction§! 5 seats will be lost§!"
+
+byz_grow_army_fail:0 "§Ggeneral fraction§! there will be §G 5 seats will be obtained §!\n§0 Imperial fraction§! 5 seats will be lost§!"
+byz_grow_army_succed:0 "§0 Imperial faction§! there will be §G 5 seats will be obtained §!\n§Ggeneral fraction§! 5 seats will be lost§!"
+biz_lose_coalitia:0 "§R The ruling coalition will break up!§!"
+ 
+byz_trade_next_fail:0 "§The trading faction§! there will be §G 5 seats will be obtained §!\n§0 Imperial fraction§! 5 seats will be lost§!"
+biz_trade_next_succed:0"§0 Imperial faction§! there will be §G 5 seats will be obtained §!\n§The trade faction§! 5 seats will be lost§!"
+
+byz_im5_me5_dem5_gov15:0 "§Ggeneral fraction§! there will be §G 15 seats received§!\n§0 Imperial fraction§! 5 seats will be lost §R!\n§2National fraction§! 5 seats will be lost §R!\n§The trade faction§! 5 seats will be lost§!"
+
+byz_imperia_control_100:0 "The ruling faction controls more than 100 seats"
+byz_general_control_100:0 "The ruling faction controls more than 100 seats"
+byz_merchants_control_100:0 "The ruling faction controls more than 100 seats"
+byz_democrat_control_100:0 "The ruling faction controls more than 100 seats"
+byz_denmer_control_100:0 "The ruling faction controls more than 100 seats"
+byz_impgov_control_100:0 "The ruling faction controls more than 100 seats"
+
+biz_intervent_in_civil_war:0 "Solutions related to the Upersidian civil War will be opened§!."
+ 
+byz_demmer_decision:0 " Opens the repeated solution of the coalition §2National§! and §UTorgovoy§! fractions.\The given solutions will be §R Lost§! in the event of a change of the ruling faction, or the destruction of the coalition."
+biz_impgov_decision:0 " Opens the repeated solution of the coalition §0 of the imperial§! and §Ggeneral§! fractions.\The given solutions will be §R Lost§! in case of a change of the ruling faction, or the destruction of the coalition."
+ 
+#flags
+ 
+hellenization_of_bulgaria_complete:0 "Hellenization of Bulgaria is over"
+hellenization_of_albania_complete:0 "The Hellenization of Albania is over"
+hellenization_of_serbia_complete:0 "The Hellenization of Serbia has become law"
+hellenization_of_bosnia_complete:0 "The Hellenization of Bosnia is over"
+hellenization_of_croatia_complete:0 "Hellenization of Croatia is over"
+BYZ_vs_SER:0 "The war with Serbia is over"
+BYZ_vs_ALB:0 "The war with Albania is over"
+BYZ_vs_BUL_win:0 "Bulgaria was defeated"
+BYZ_vs_ALB_win:0 "Albania was defeated"
+BYZ_vs_SER_win:0 "Serbia was defeated"
+BYZ_vs_BOS_win:0 "Bosnia was defeated"
+BYZ_secret_protocol:0 "The agreement about Italy is signed"
+byz_democratic_politic:0 "§2 The path has been chosen to reduce the power of the emperor§!"
+byz_imperia_politic:0 "§0 The path has been chosen to strengthen the power of the emperor§!"
+BYZ_decision_with_bulgaria:0 "Jobs in Bulgaria"
+BYZ_decision_with_albania:0 "Jobs in Albania"
+BYZ_decision_with_serbia:0 "Jobs in Serbia"
+BYZ_decision_with_bosnia:0 "Jobs in Bosnia"
+BIZ_decision_with_croatia:0 "Works in Croatia"
+byz_senat_meeting:0 "§The Senate assembly takes place automatically once a year§!."
+ 
+ #global flag
+ 
+persian_civil_war_flag:0 "Civil war has begun in Persia"
+ 
+ #focus
+ 
+BYZ_FIRST_SENAT_MEETING:0 "Annual Meeting of the Senate"
+BYZ_first_senat_meeting_desc:0 "Every year our Senate meets to solve the problems that have accumulated over the year. But this year the meeting promises to be even hotter than usual, because now the emperor himself has decided to take everything into his own hands. And the only question is whether his faction will be able to take the majority."
+BYZ_imperial_reform:0 "Imperial Reforms"
+BYZ_imperial_reform_desc:0 "Our empire requires an updated approach to it. With the expansion of territories, we are faced with the fact that the old way of life does not have time to meet the demands of the time."
+ BYZ_imperial_reform_senat:0 "Senate question"
+BYZ_imperial_reform_senat_desc:0 "The Senate is an acute problem of the modern empire, it's time to decide what future awaits it."
+BIZ_imperial_reform_people:0 "The question of people's rights"
+BYZ_imperial_reform_people_desc:0 "For many years we postponed this issue, but when we already have a multinational empire, this issue became absolutely acute."
+BIZ_imperial_reform_economic:0 "Economic reforms"
+BYZ_imperial_reform_economic_desc:0 "Economics is a very important issue that needs to be resolved before it becomes critical."
+ BYZ_imperial_reform_slave:0 "Slavery issue"
+BYZ_imperial_reform_slave_desc:0 "The whole civilized world has already refused, why are we worse?"
+BYZ_imperial_reform_law:0 "Reforms of the legislative system"
+BYZ_imperial_reform_law_desc:0 "It's time to define the framework and norms of the laws. Our laws are rooted in Roman law, but in the modern era these are extremely outdated postulates."
+ BYZ_imperial_reform_religion:0 "The question of religion"
+BIZ_imperial_reform_religion_desc:0 "What to do with faith was a long question, but it's time to put an end to it."
+ BYZ_imperial_new_system:0 "The new Imperial system?"
+ BYZ_imperial_new_system_desc:0 "What reforms have we carried out, what decisions have we made. Will they all benefit the empire? Only time will tell."
+ BYZ_italia:0 "Return Italy"
+BIZ_italia_desc:0 "It's time to return the Italian lands to restore the Roman Empire."
+BIZ_italia_religian_way:0 "Overcome Schism"
+BYZ_italia_religian_way_desc:0 "Dad was able to unite Italy, which means we have to solve the main issue, after which the issue of Italy will be resolved."
+BIZ_italia_marry_way:0 "Marriage union"
+ BYZ_italia_marry_way_desc:0 "Italy has a monarchy, we have a monarchy, won't we be able to solve the land issue as we did before?"
+BYZ_italia_war_way:0 "Expulsion of barbarians from Italy"
+BYZ_italia_war_way_desc:0 "Why think about the problem if it can be solved at the root? Capture Italy by force."
+BIZ_italia_religian_union:0 "Religious Union"
+BYZ_italia_religian_union_desc:0 "We have to start talking about the unity of Christhood, it's time to overcome this split."
+BIZ_italia_religian_conference:0 "Religious Conference"
+ BYZ_italia_religian_conference_desc:0 "Here is the result that we have all been waiting for. Today we will find out whether Christianity will be able to heal the first wound that it received in 1054?"
+BYZ_italia_invest:0 "Investment in the north of Italy"
+BYZ_italia_invest_desc:0 "It's time to show Italy how much we want to help them."
+BYZ_italia_invest_in_south:0 "Investment in the south of Italy"
+BYZ_italia_invest_in_south_desc:0 "We must continue to help them so that they will be more obedient to us in the future."
+BIZ_italia_marry_union:0 "Dynastic marriage"
+ BYZ_italia_marry_union_desc:0 "We must get closer to the Italian leader, because he is our ally"
+BIZ_italia_marry_event:0 "Turning event"
+BYZ_italia_marry_event_desc:0 "Everything happened so unexpectedly, but now there is no choice, we will have to take Italy into our arms."
+BIZ_italia_reform:0 "Reforms for Italians"
+BYZ_italia_reform_desc:0 "Today we have to introduce the first package of reforms in relation to the Italian, so that in the end we can easily integrate them."
+ BYZ_italia_open_trade:0 "Free trade with Italy"
+ BYZ_italia_open_trade_desc:0 "We must trade with Italy on an equal footing with any other of our territories."
+ BYZ_italia_war_declare:0 "The War for Italy"
+BYZ_italia_war_declare_desc:0 "It's time to start a plan to seize Italian lands."
+ BYZ_italia_war_developmet:0 "Roman Glory"
+BYZ_italia_war_developmet_desc:0 "Even today Italians see themselves as heirs of Rome, how can they refuse us when we are Rome?"
+BYZ_power_to_senat:0 "Strengthen the Senate"
+BYZ_power_to_senat_desc:0 "Now the Senate must assume a dominant role to prevent the Emperor from destroying the Empire."
+BYZ_support_of_merchants:0 "Support for the trading faction"
+BYZ_support_of_merchants_desc:0 "We should ask the trade federation to take our side in the council."
+ BYZ_suppression_generals:0 "Suppression of the military faction"
+BYZ_suppression_generals_desc:0 "Military supporters of the Emperor, which means it's time to reduce their faction."
+BYZ_support_of_democrats:0 "Support for the democratic faction"
+BYZ_support_of_democrats_desc:0 "Without the support of the Democrats, we will not be able to undo the reforms that the Emperor promoted."
+BIZ_decentralisation:0 "Strengthen decentralization"
+BIZ_decentralisation_desc:0 "The Empire cannot be allowed to become more centralized, because we will not be able to control it."
+ BYZ_counteraction_of_senat:0 "Resist the Senate"
+ BYZ_counteraction_of_senat_desc:0 "The Senate wants to stop the Emperor's reforms, we have to stop him."
+ BYZ_support_from_democrats:0 "Deal with Democrats"
+BYZ_support_from_democrats_desc:0 "Democrats want money again, they always have it so simple."
+BIZ_support_from_generals:0 "Deal with the military"
+BYZ_support_from_generals_desc:0 "The military wants to see more soldiers ready for conquest, logically."
+BIZ_support_from_merchants:0 "Deal with merchants"
+BIZ_support_from_merchants_desc:0 "They demand to open a trade, well, you'll have to obey"
+BIZ_centralization:0 "Centralization"
+ BYZ_centralization_desc:0 "It's time to unite the Empire. In the first reform package, we must attach the closest and dearest zeal."
+BIZ_bulgaria_war:0 "Capture of Bulgaria"
+BYZ_bulgaria_war_desc:0 "Bulgarian lands are the closest to us, it's time to put an end to their independence."
+BYZ_albania_war:0 "Destroy the Venetian fragment"
+BYZ_albania_war_desc:0 "Once the Venetians supported the Albanians, but now no one protects it, so it's time to destroy this echo of the past."
+BYZ_serbia_war:0 "Battle with the Serbs"
+ BYZ_serbia_war_desc:0 "It's time to destroy this proud people. They say that they are the defenders of the Balkan Slavs. And we will show that no one will protect them anymore."
+BIZ_bosnia_war:0 "Bosnian Wars"
+BIZ_bosnia_war_desc:0 "It's time to conquer these Bosnians to finish with most of the Balkan lands."
+ BYZ_on_you_own_army_reform:0 "Our military reforms"
+BYZ_on_you_own_army_reform_desc:0 "It's time to reform the army, because the Napoleonic Wars showed our reign, so we urgently need to carry out reforms."
+BIZ_on_you_own_army_base:0 "New military factories"
+ BYZ_on_you_own_army_base_desc:0 "If we want to reform the army, then we need to produce everything necessary for soldiers, so we will have to open more factories urgently."
+BYZ_on_you_own_army_advance:0 "Effective military production"
+BYZ_on_you_own_army_advance_desc:0 "Reforms require more and more resources, so we will have to invest in military production so that it has time to meet the requirements of the army."
+BIZ_on_you_own_army_complete:0 "Finish reforms"
+BYZ_on_you_own_army_complete_desc:0 "The main reforms are over, now it remains to consolidate success."
+ BYZ_old_doctrin:0 "Fema"
+BYZ_old_doctrin_desc:0 "We will not abandon traditions and will modernize them."
+byz_old_doctrin_doctrin:0 "Update old textbooks"
+BYZ_old_doctrin_doctrin_desc:0 "It's time to update the literature that our army studies so that they understand how modern warfare is conducted."
+BIZ_old_doctrin_tech:0 "Investment in military technology"
+BIZ_old_doctrin_tech_desc:0 "It's time to invest even more in these reforms to fix the technological lag."
+BIZ_old_doctrin_national_spirit:0 "Fema Reorganization"
+ BYZ_old_doctrin_national_spirit_desc:0 "Femes show themselves well during modernization, but in order for this process to be even more effective, we need to slightly change their composition."
+BIZ_new_doctrin:0 "Praetorian"
+BIZ_new_doctrin_desc:0 "The Napoleonic Wars showed the inefficiency of a non-professional army. So we have to create a fist of elite troops."
+BIZ_new_doctrin_doctrin:0 "Buy new textbooks"
+BYZ_new_doctrin_doctrin_desc:0 "Only a new approach to military training can now give us a boost in the development of the military industry."
+BIZ_new_doctrin_tech:0 "New technologies"
+ BYZ_new_doctrin_tech_desc:0 "We have been watching German military technologies for a long time and now we see what will determine future battles."
+BIZ_new_doctrin_national_spirit:0 "Final jerk"
+BYZ_new_doctrin_national_spirit_desc:0 "The Praetorians are showing themselves very well, but they still lack something, so we need to study the weaknesses of these reforms to minimize them."
+BYZ_pru_will_help_army_reform:0 "German sample"
+ BYZ_pru_will_help_army_reform_desc:0 "German technology is great, we must take as much as possible from them in order to be on an equal footing with all the great powers."
+BYZ_pru_will_help_investmant_1:0 "German investments"
+BYZ_pru_will_help_investmant_1_desc:0 "We need to get not only German technology, but also the means to modernize our troops."
+BYZ_pru_will_help_tech:0 "German technology"
+BYZ_pru_will_help_tech_desc:0 "We will get German technologies, which will allow us to reform the army even more easily on their model."
+BYZ_pru_will_help_national_spirit:0 "Prussian example"
+ BYZ_pru_will_help_national_spirit_desc:0 "We will build our army in the likeness of the Prussian one. Although why the similarity? We'll just copy it."
+BYZ_pru_will_help_investmant_2:0 "More German investments"
+BYZ_pru_will_help_investmant_2_desc:0 "The more the Germans invest in our army, the closer we are to being together until the end."
+BYZ_pru_will_help_doctrin:0 "German doctrine"
+BYZ_pru_will_help_doctrin_desc:0 "Their doctrine should define ours."
+ BYZ_pru_will_help_complete:0 "Germans in the army"
+ BYZ_pru_will_help_complete_desc:0 "In the old days it would have been called the primacy of the Varangian Guard, but who is to blame that even it is more effective than ours."
+BIZ_army_reform_complete:0 "Roman March"
+BYZ_army_reform_complete_desc:0 "Now our military reforms are at the forefront and at the moment we can deal with more important issues."
+ BYZ_navy_modernization:0 "Fleet modernization"
+BYZ_navy_modernization_desc:0 "It's time to make a couple of improvements to our great fleet."
+ BYZ_malta_operation:0 "Maltese operation"
+BYZ_malta_operation_desc:0 "If we control an island in the center of the Mediterranean Sea, then we will be able to call the sea our own."
+ BYZ_gate_to_mediterranean:0 "Gateway to the Mediterranean Sea"
+BYZ_gate_to_mediterranean_desc:0 "We have to control both entrances to the Mediterranean Sea in order to control traffic in it."
+ BYZ_mediterranean_sea_maneurvers:0 "Mediterranean maneuvers"
+ BYZ_mediterranean_sea_maneurvers_desc:0 "We have to show who is the master of the Mediterranean Sea."
+BYZ_tech_mediterranean_sea:0 "Improve the Mediterranean Fleet"
+byz_tech_mediterranean_se_desc:0 "Fleet moddernization is a slow process, but if we start it in advance, then we will have enough time to spend it."
+BIZ_dockyard_mediterranean_sea:0 "Mediterranean Shipyards"
+biz_dockyard_mediterranean_se_desc:0 "It is necessary to increase the number of shipyards in the Mediterranean Sea so that the improvement and repair of ships in it is easier."
+BYZ_embargo_ENG:0 "British Embargo"
+ BYZ_embargo_ENG_desc:0 "It is impossible to allow any British vessel to enter the Mediterranean Sea. It's time for the British to stay in England."
+BIZ_black_sea_maneurvers:0 "Black Sea maneuvers"
+BYZ_black_sea_maneurvers_desc:0 "It's time to punish the Russian Fleet and show that the Black Sea is part of our empire, not theirs."
+BIZ_dockyard_black_sea:0 "Black Sea shipyards"
+BIZ_DOCKYARD_BLACK_SE_DESC:0 "It's time to strengthen shipbuilding in the Black Sea region so that the Russians understand exactly where their place is."
+BIZ_tech_black_sea:0 "Black Sea technologies"
+ BYZ_tech_black_sea_desc:0 "It's time to strengthen the Black Sea fleet, so that in the future not only to be on an equal footing with the Russian fleet, but also to be better than it."
+ BYZ_embargo_RUS:0 "Russian Embargo"
+BYZ_embargo_RUS_desc:0 "It is impossible to allow Russian ships to enter the Mediterranean Sea."
+BIZ_true_king_of_mediterranean:0 "King of the Mediterranean"
+BYZ_true_king_of_mediterranean_desc:0 "Now the Mediterranean is ours and only ours. And it is we who will decide the fate of this sea."
+BYZ_colonial_quest:0 "Colonial issues"
+BYZ_colonial_quest_desc:0 "It's time to resolve the issues of our two colonies."
+ BYZ_colonial_diplomacy_MRH:0 "Offers for Marhats"
+BYZ_colonial_diplomacy_MRH_desc:0 "We need to strengthen relations with the Mahats in order to invest in their support in the future."
+ BYZ_colonial_diplomacy_ZIM:0 "Buying Zimbabwe"
+BYZ_colonial_diplomacy_ZIM_desc:0 "Zimbabwe may not be the richest region, but by increasing influence there we can prevent the British from getting it there."
+BYZ_colonial_conference:0 "Colonial Conference"
+BYZ_colonial_conference_desc:0 "It's time to hold a congress of all the colonies and decide what each of them wants now."
+ BYZ_colonial_trade:0 "Free Colonial trade"
+BYZ_colonial_trade_desc:0 "Our colonies previously had the right to manage their market, but now their market is completely free and independent of their government."
+ BYZ_colonial_gold:0 "Expand the zone of influence of colonies"
+BYZ_colonial_gold_desc:0 "It's time to determine what else we consider our colonies."
+BYZ_afrika_investment_1:0 "African roads"
+BYZ_afrika_investment_1_desc:0 "It's time to improve the roads in our colonies in Africa so that we have fewer problems in the future."
+BYZ_afrika_investment_2:0 "African factories"
+ BYZ_afrika_investment_2_desc:0 "More factories, more priboli, isn't it logical."
+BYZ_afrika_investment_3:0 "African factories"
+BYZ_afrika_investment_3_desc:0 "We need to expand military factories on African territory."
+BYZ_afrika_help_1:0 "Strengthen the government of Africa"
+BYZ_afrika_help_1_desc:0 "We need to strengthen their local government, because otherwise we will have problems."
+BYZ_afrika_help_2:0 "To support Africa with troops"
+BYZ_afrika_help_2_desc:0 "More soldiers, easier control, isn't it logical?"
+BYZ_india_investment_1:0 "Indian roads"
+ BIZ_india_investment_1_desc:0 "Improving roads in this region will be an excellent investment."
+BYZ_india_investment_2:0 "Indian factories"
+BYZ_india_investment_2_desc:0 "We need more factories in India, because there are a lot of workers there."
+BYZ_india_investment_3:0 "Indian factories"
+BYZ_india_investment_3_desc:0 "Expanding military production in India will allow us to easily control this territory."
+BIZ_india_help_1:0 "Strengthen the Indian government"
+BIZ_india_help_1_desc:0 "It's time to strengthen the government in India."
+BIZ_india_help_2:0 "Support the Indian Army"
+ BYZ_india_help_2_desc:0 "We need to invest in the Indian Army."
+BYZ_start_army_training:0 "Start of military exercises"
+BYZ_start_army_training_desc:0 "We urgently need to correct mistakes in our troops. And the best way is to ask our German friends to become spectators in our future exercises. They will point out our mistakes and we will correct them."
+BIZ_test_new_type_of_army:0 "Test a new type of troops"
+ BYZ_test_new_type_of_army_desc:0 "Leipoldit has shown that some laws of the world can now be circumvented, which means it's time to give our engineers imagination and use their achievements to create something truly new."
+BYZ_main_air_base:0 "Air ports"
+BYZ_main_air_base_desc:0 "If we are going to use the air force to the full, then we need a place where we can discuss them, so the urgent construction of "Air Ports" has begun."
+BIZ_first_world_radar:0 "Radar stations"
+ BYZ_first_world_radar_desc:0 "To improve the air force service, we need to use more advanced technologies, as well as radars will allow us to increase the maneuver radius of our troops."
+BYZ_air_final:0 "Possessions of the Celum"
+BYZ_air_final_desc:0 "Once the Celum alone ruled the heavens, but now we claim dominion over them."
+BYZ_fast_air_battle:0 "Harpies"
+BYZ_fast_air_battle_desc:0 "Inspired by the harpies, we built an air force in their likeness. And now we are able to launch rapid and numerous attacks on our enemies."
+ BYZ_fast_air_battle_tech:0 "Upgraded fighters"
+BYZ_fast_air_battle_tech_desc:0 "We cannot allow our aerial technologies to become obsolete, so support for this area has been expanded."
+BIZ_fast_air_battle_building:0 "Harpy Nests"
+BIZ_fast_air_battle_building_desc:0 "The location of the air forces in the main cities of the empire is certainly good, but it's time to move them closer to the border."
+BIZ_fast_air_battle_test:0 "Harpies on the loose"
+ BYZ_fast_air_battle_test_desc:0 "Our opponents should be afraid of our air forces, because now they are free and can act as a unified system."
+BYZ_fast_air_battle_tech_1:0 "Modern fighters"
+BYZ_fast_air_battle_tech_1_desc:0 "We cannot allow our aerial technologies to become obsolete, so support for this area has been expanded."
+BYZ_fast_air_battle_building_1:0 "Expand Harpy Nests"
+BYZ_fast_air_battle_building_1_desc:0 "Our air forces already lack past bases, so it was decided to expand them."
+ BYZ_fast_air_battle_idea:0 "New generation of Harpies"
+BYZ_fast_air_battle_idea_desc:0 "By continuing to improve the design of the airship, we were able to achieve even higher performance, due to the simplification of the design."
+BIZ_bombing_to_stone_age:0 "Griffins"
+BYZ_bombing_to_stone_age_desc:0 "Inspired by the griffins, we designed the air force in their likeness. And now we will tear the enemy's land with the "claws" of our Griffins."
+BIZ_bombing_to_stone_age_tech:0 "Upgraded bombers"
+ BYZ_bombing_to_stone_age_tech_desc:0 "We cannot allow our aerial technologies to become obsolete, therefore support for this area has been expanded."
+BIZ_bombing_to_stone_age_building:0 "Griffin possessions"
+BIZ_bombing_to_stone_age_building_desc:0 "Such dangerous aerial giants should be moved closer to the border to avoid incidents at important points of our empire"
+BIZ_bombing_to_stone_age_test:0 "The Rampage of the Griffin"
+BIZ_bombing_to_stone_age_test_desc:0 "Combat tests have shown significant success, which has inclined the last skeptics in this development towards its adoption."
+ BYZ_bombing_to_stone_age_tech_1:0 "Modern bombers"
+BYZ_bombing_to_stone_age_tech_1_desc:0 "We cannot allow our aerial technologies to become obsolete, so support for this area has been expanded."
+BIZ_bombing_to_stone_age_building_1:0 "Expand the Griffin domain"
+BIZ_bombing_to_stone_age_building_1_desc:0 "We need more points from where our forces can strike at the enemy, so it was decided to expand the air ports."
+BIZ_bombing_to_stone_age_idea:0 "The Wisdom of Griffins"
+ BYZ_bombing_to_stone_age_idea_desc:0 "By exploring the possibilities of the Griffin's claws, we were able to develop more advanced models, which allows us to dig not only into the ground, but also into the flesh of our opponents."
+ 
+ BYZ_roman_empire_reborn:0 "The Revival of the Roman Empire"
+BY_roman_empire_reborn_desc:0 "In 395, the unity of Rome was dealt a huge blow. In 476, we lost the western provinces, but we continued to fight. Under Justinian I, we are returning many of our lands and returning the status of the Roman Empire. After the hard years began, defeat after defeat, and as a result, almost the end of history in 1356, the people of Zacharias were able to become our shield, protect our future. And now, when Rome is in our hands again, we can go from the Roman Empire to become the Roman Empire again, which will give us legitimate claims to all the former territories."
+BIZ_purple_dawn:0 "§0 Purple Dawn§!"
+BIG_purple_dawn_dusk:0 "We won the great war, now no one can surpass our dominance in the Mediterranean. We are the Roman Empire, which means now the world is entering a new era. In the age of Purple Dawn!"
+ 
+ #ideas
+ 
+balkan_wars:0 "Battle for the Balkans"
+balkan_wars_desc:0 "Byzantium is marching in the Balkans again. We were promised help and protection from them, but not one European country, after the Napoleonic Wars, does not want to protect us, did Europe betray us?"
+balkan_wars_1:0 "Battle for the Balkans"
+balkan_wars_1_desc:0 "Byzantium is marching in the Balkans again. We survived the first days of the war, now we have figured out their tactics and will be able to defend our land more easily."
+war_for_freedom:0 "The War for Freedom"
+ war_for_freedom_desc:0 "They want to capture us, we will fight to the last drop of blood."
+ eqyptian_wars:0 "Coptic Military Campaign"
+eqyptian_wars_desc:0 "We must expand our lands in order to be more equal with our allies in the future."
+biz_economic:0 "Prosperous economy"
+biz_economic_desc:0 "All these years we have been engaged in trade, and when exactly you are the key to Asian lands, money flows to you like a river."
+biz_glory:0 "Romeiskaya slava"
+byz_glory_desc:0 "The world remembers that we are the heirs of the Roman Empire, which makes us more respected in the eyes of others."
+biz_king_of_mediterranean:0 "The Lord of the Mediterranean Sea"
+ byz_king_of_mediterranean_desc:0 "Everyone is strange that they use the Mediterranean Sea, they must listen to our rules."
+biz_true_king_of_mediterranean:0 "The Lord of the Mediterranean waters"
+byz_true_king_of_mediterranean_desc:0 "It is we who set who and what walks on our waters."
+byz_stagnat_army:0 "Stagnation in the army"
+byz_stagnat_army_desc:0 "Our army is godlessly outdated. Even the barbarians at one time were more advanced than we are now."
+byz_old_army_1:0 "Femes of the XIX century"
+byz_old_army_1_desc:0 "Our old orders fit into modern realities, we just need to work on the composition of the army."
+ byz_old_army_2:0 "Femes of the XIX century"
+byz_old_army_2_desc:0 "Our old orders fit into modern realities, we just need to work on the composition of the army."
+byz_old_army_3:0 "Femes of the XIX century"
+byz_old_army_3_desc:0 "Our old orders fit into modern realities, we just need to work on the composition of the army."
+biz_new_army_1:0 "Praetorian Guard of the XIX century"
+byz_new_army_1_desc:0 "Only an elite and ultra-modern army can be the mainstay of a reborn empire."
+byz_new_army_2:0 "Praetorian Guard of the XIX century"
+ byz_new_army_2_desc:0 "Only an elite and ultra-modern army can be the mainstay of a reborn empire."
+byz_new_army_3:0 "Praetorian Guard of the XIX century"
+byz_new_army_3_desc:0 "Only an elite and ultra-modern army can be the mainstay of a reborn empire."
+byz_pru_army_1:0 "Prussian example"
+byz_pru_army_1_desc:0 "The Prussians already give us their technology, why should we give up the army example, is there anything wrong with the fact that we have everything from Prussia?"
+byz_pru_army_2:0 "Prussian example"
+ byz_pru_army_2_desc:0 "The Prussians already give us their technology, why should we give up the army example, is there anything wrong with the fact that we have everything from Prussia?"
+byz_pru_army_3:0 "Prussian example"
+byz_pru_army_3_desc:0 "The Prussians already give us their technology, why should we give up the army example, is there anything wrong with the fact that we have everything from Prussia?"
+byz_colonial_trade:0 "Colonial profit"
+byz_colonial_trade_desc:0 "Our colonies have begun to recoup the funds that we spend on them."
+biz_embargo:0 "The Roman Embargo"
+ byz_embargo_desc:0 "The Romans stopped trading with us, they also blocked all the waters they control. This has a bad effect on economics."
+biz_zimbambe_deal:0 "Zimbabwe purchase"
+byz_zimbambe_deal_desc:0 "We didn't think they would want so much, well, you can't make ruddy extra land"
+ war_for_freedom:0 "War to the last drop of blood"
+war_for_freedom_desc:0 "Today the fate of our state is being decided, we have no right to defeat!"
+persian_civil_war_idea:0 "Persian Civil War"
+byz_army_training_idea:0 "Updating military protocols"
+ byz_army_training_idea_desc:0 "It's time to start army reforms, otherwise we will not fix the weakness of our army in the future."
+byz_fab_1:0 "Harpies"
+byz_fab_1_desc:0 "As in our ancient myths, our air force will strike blow after blow at our enemies, like Harpies in their time."
+byz_fab_2:0 "Harpies"
+byz_fab_2_desc:0 "As in our ancient myths, our air force will strike blow after blow at our enemies, like Harpies in their time."
+biz_fab_3:0 "Harpies"
+ byz_fab_3_desc:0 "As in our ancient myths, our air force will strike blow after blow at our enemies, like Harpies in their time."
+byz_bsa_1:0 "Griffins"
+byz_bsa_1_desc:0 "As a Griffin digs its claws into the ground, so our air forces will tear apart enemy lands with these claws!"
+byz_bsa_2:0 "Griffins"
+byz_bsa_2_desc:0 "As a Griffin digs its claws into the ground, so our air forces will tear apart enemy lands with these claws!"
+byz_bsa_3:0 "Griffins"
+ byz_bsa_3_desc:0 "As a Griffin digs its claws into the ground, so our air forces will tear enemy lands with these claws!"
+byz_task_to_democraty:0 "Protection of old traditions"
+byz_task_to_democraty_desc:0 ""
+byz_task_to_puppet:0 "Imperial Engineering Commission"
+byz_task_to_puppet_desc:0 ""
+byz_help_parfia:0 "Help for Parthia"
+byz_help_parfia_desc:0 ""
+ 
+ #adviser
+ 
+ BYZ_Roman_Metaxas:0 "Roman Metaxis"
+ BYZ_Konstantin_Kanaris:0 "Konstantin Canaris"
+ BYZ_Menelaos_Androulis:0 "Menalos Androlis"
+ BYZ_Thomas_Tripolakis:0 "Thomas Tricolakis"
+ BYZ_Argyris_Mattide:0 "Arguris Matide"
+ BYZ_Vasileios_Siskiades:0 "Vasileos Siskides"
+ BYZ_Nektarios_Fota:0 "Nectarios Fota"
+ BYZ_Thanos_Pulide:0 "Thanos Palide"
+ BYZ_Manousos_Rondea:0 "Manoasos Rondea"
+ BYZ_Vaso_Kostas:0 "Vaso Kostas"
+ BYZ_Vlasis_Strakelli:0 "Vlasis Strakelli"
+ BYZ_Aristidis_Vlahas:0 "Aristidis Vlahos"
+ BYZ_Ermis_Michaela:0 "Yermin Michaela"
+ BYZ_Haris_Vassalla:0 "Haris Wasala"
+ BYZ_Yanni_Spiterouli:0 "Yani Spiteroali"
+ BYZ_Nikolaos_Mella:0 "Nikolaus Mela"
+ BYZ_Babis_Valatos:0 "Babis Valantos"
+ BYZ_Minoas_Artinelli:0 "Manoas Artinela"
+ BYZ_Iraklis_Kallelis:0 "Iraklis Caleris"
+ BYZ_Akakios_Economides:0 "Akakis Economidas"
+ BYZ_Dionissis_Saliades:0 "Dionysus Saliades"
+ BYZ_Antonis_Nassas:0 "Antonias Nasses"
+ BYZ_Christoforos_Sideropoulou:0 "Christophoros Sideropoaloa"
+ BYZ_Alex_Metaxas:0 "Alec Metaxis"
+ BYZ_Likourgos_Strakiade:0 "Lycourgos Strakiade"
+ BYZ_Christos_Tripoleas:0 "Christ Tripoleas"
+ BYZ_Apollon_Siskeas:0 "Apollo Siakeas"
+ BYZ_Nikos_Kanelidi:0 "Nikos Kenelidi"
+ BYZ_Giorgos_Fotili:0 "Georgos Fotili"
+ BYZ_Michalis_Boulilis:0 "Michalis Boalisis"
+ BYZ_Zacharias_Tassou:0 "Zacharias Tasoa"
+ BYZ_Alekos_Miriade:0 "Alexios Myriade"
+ BYZ_Anthimos_Balotis:0 "Anathemos Balotis"
+ BYZ_Stavros_Gareas:0 "Stavros Gareas"
+ BYZ_Manos_Lillatos:0 "Manos Lilatos"
+ #commander
+ 
+ #manufacture
+ 
+ byz_light_panzer:0 "Elafriadexameni"
+ byz_medium_panzer:0 "Mesaiadexameni"
+ byz_heavy_panzer:0 "Varytank"
+ byz_ocean_navy_company:0 "Okeaniostolo"
+ byz_sea_navy_company:0 "Polemikonautiko"
+ byz_light_air:0 "Elafryaeroplano"
+ byz_medium_air:0 "Mesiaiaeroskafi"
+ byz_heavy_air:0 "Variaaeroskafi"
+ byz_strateg_bombing_air:0 "Vomvardistaka"
+ byz_navy_air:0 "Naftikiaeporia"
+ byz_artillery:0 "Pyrovoliko"
+ byz_infantry:0 "Oplapezikou"
+ byz_motorized:0 "Michanokinitatoufekia"
+ byz_coal_fabric:0 "Anakyklosi"
+ byz_industrial_fabric:0 "Ekviomichanisi"
+ byz_steampunk_fabric:0 "Ilektrologos"
+ byzantium_science_manufacturer:0 "Roman Scientific and Industrial Complex"
+ 
+ #event
+ 
+byz.1.t:0 "Troops entering Dobrudja"
+byz.1.d:0 "Our troops entered Dobrudja and did not meet worthy resistance, which means that it's time to congratulate the new region on returning to the bosom of the Empire."
+byz.1.a:0 "The Empire must grow"
+
+byz.2.t:0 "To restore religious values in the Balkans"
+byz.2.d:0 "Over time, they moved away from us, then towards Catholicism, then towards Orthodoxy. It's time to end this and point out to them that there can be only one faith."
+byz.2.a:0 "Ave Maria"
+
+byz.3.t:0 "Dalmatia"
+ byz.3.d:0 "During our rule, there was no concept of Bosnia, there was only one Dalmatia, so let this name return and be eternal."
+byz.3.a:0 "Bosnia is no longer Bosnia"
+
+byz.4.t:0 "Restoration of the Balkan border"
+byz.4.d:0 "The victory over Austria gave us the lost territories, which allowed us to get closer to Rome."
+byz.4.a:0 "Rome is getting closer"
+
+byz.5.t:0 "Buying Giblartar"
+ byz.5.d:0 "The Romans want to buy the giblartar rock, which will allow them to control the exit from the Mediterranean Sea on a par with us. The loss of such an important object will obviously not be pleasant, but the threat of war on their part may put an end to our history."
+byz.5.a:0 "They won't ask for more?"
+byz.5.b:0 "Our lands are not for sale"
+
+byz.6.t:0 "Buying Ceuta"
+byz.6.d:0 "Roma want to buy the city of Ceuta, which provides control at the entrance to the Mediterranean Sea. The loss of this city will cost us dearly, but it seems we have no right to refuse now, because the consequences will be catostraphic."
+ byz.6.a:0 "Only the city and not an inch more"
+ byz.6.b:0 "Although the British, our lands are not for sale"
+
+ byz.7.t:0 "Prussia calls us to war"
+ byz.7.d:0 "Prussia attacked Austria and wants to divide she is with us, but for this we have to introduce troops on her territory, what should we do?"
+ byz.7.a:0 "We will help"
+ byz.7.b:0 "They will cope on their own"
+
+ byz.8.t:0 "Coup in Persia"
+ byz.8.d:0 ""
+ byz.8.a:0 "Traitors"
+
+ byz.9.t:0 "Our future"
+ byz.9.d:0 "The discussion has been going on for several days, and the reason for this is the coalition of the Trade and People's Faction (Coalition of Democratic Forces), which decided to bring to a decision the question of the power of the emperor in the state. They naturally speak out about his removal from power and the transition to a republic with the preservation of the titular empire. The Imperial faction, in turn, speaks extremely negatively about this idea, the General Faction remained neutral until today's meeting, where restrictions on the power of the military were also added to the emperor's restriction, which is why they entered into a coalition with the Imperial Faction. The majority of the Senate is still behind the coalition of democratic forces, but due to the gap of only 5 seats, his Imperial Majesty is given the words and he decides... "
+ byz.9.a:0 " ... to stand up and make a speech."
+ byz.9.b:0 "... accept your fate."
+
+ byz.10.t:0 "Offer from Romea"
+ byz.10.d:0 "Roma want to increase their influence in one of our regions in exchange for guarantees."
+ byz.10.a:0 "Great deal"
+ byz.10.b:0 "We are strong alone"
+
+ byz.11.t:0 "Speech"
+ byz.11.d:0 "The Emperor slowly ascended to the podium and even took off the imperial crown. \n\n —"Dear Senate, I am the same citizen of our great country as everyone here. And you're asking me to resign in such stressful times? My father told me how our country suffered during the "War of the Third Coalition", how our soldiers died for OUR ideals, for OUR future. And now, when the world is getting more tense in Europe every day, do you want me to just leave?"  The emperor spoke slowly and thoughtfully. \n\n —"We demand only freedom and justice for all. We are a European country and we must develop like everyone else." — the head of the People's Faction Alexandros Mavrokordatos spoke proudly. \n\n —"But don't hard times require a strong hand that will lead the people to victory? Today I speak not as your emperor, but as your compatriot. I want OUR empire to succeed, not fall, as it once could. If the Great Zacharias had been gentle, could he then have defeated Osman on Galipoli? No! And you're talking about freedom and justice? So look at Russia, has anything changed there with the departure of the monarch? No, living conditions are getting harder every year. And France, overthrew the monarch and launched into a bloody massacre in Europe, do you really want such freedom and justice? I don't think so." — now the emperor spoke with obvious pride for the past of his country. \n\n —"But if we allow your tyranny, will anyone feel good?"  Alexandros interrupted the emperor. \n\n —"I swear to every citizen of our state I will not be a tyrant! I will become someone our people will be proud of. I swear that our empire will be able to achieve the successes of Justinian I again. I also swear that by 1854 I will begin to implement the first reforms that will allow, as you say, "to give freedom" to OUR citizens."  After these words, the emperor returned the crown to his head and took his place. \n\n It was only after the emperor sat down that the entire Imperial and General Faction gave themselves up in applause, but what is even more strange, even several members of the People's and Trade Faction also began to applaud. Which led to..."
+ byz.11.a:0 "... the fact that now the majority is behind us!"
+
+ byz.12.t:0 "Not accepted call"
+ byz.12.d:0 "His Imperial Majesty Augustus II decided that he would not push his luck and would make concessions to the Senate. This decision will obviously have consequences and probably very severe, since the Senate has lost the loyalty of two factions, which is why the senate split will be a very difficult test for the empire."
+ byz.12.a:0 "Reformists - rejoice, imperialists — cry!"
+
+ byz.20.t:0 "Zimbabwe's colonial question"
+ byz.20.d:0 "The Romans want us to become their colonial pawn, like our Zulu neighbors, but they offer to do it peacefully and ensure our integration into their society."
+ byz.20.a:0 "They are better than the French or the British"
+ byz.20.b:0 "The French or the British are better than them"
+
+ byz.100.t:0 "Colonial Conference"
+ byz.100.d:0 "Today, papers were submitted for the further growth and restructuring of the borders of our colonial possessions. The deadline for implementation is about 10 years."
+ byz.100.a:0 "Empire continues to grow"
+
+ byz.1000.t:0 "Senate reforms"
+ byz.1000.d:0 "The events of the beginning of 1849 showed that the old structure of the Senate only tormazit empire, so we urgently need to rebuild it."
+ byz.1000.a:0 "The Senate remains in full composition"
+ byz.1000.b:0 "The Senate will become the people's voice of the empire"
+ byz.1000.c:0 "Limit the power of the Senate"
+
+ byz.1001.t:0 "The question of human rights"
+ byz.1001.d:0 "It's time to decide what the citizens of the empire are for us, equal or reptiles."
+ byz.1001.a:0 "Everything remains the same"
+ byz.1001.b:0 "The people need more freedoms"
+ byz.1001.c:0 "Let's introduce freedom of speech"
+ 
+ byz.1002.t:0 "Slavery reforms"
+ byz.1002.d:0 "Our empire is being gnawed by an old problem, namely slavery. It has lost its former effectiveness, and the citizens of the empire do not speak in its favor."
+ byz.1002.a:0 "Slavery remains"
+ byz.1002.b:0 "Gradual abolition of slavery"
+ byz.1002.c:0 "Abolish it today"
+ 
+ byz.1003.t:0 "Religious problem"
+ byz.1003.d:0 "It's time for us to decide what to do with religion, in many countries religion has gone by the wayside, maybe it's a sign of development."
+ byz.1003.a:0 "Faith is above all"
+ byz.1003.b:0 "Weaken the influence of the church"
+ byz.1003.c:0 "Secularize the country"
+
+ byz.1004.t:0 "Reforms in economics"
+ byz.1004.d:0 "It's time to decide how we should engage in trading in modern realities. Otherwise, we can both lose sales markets and lose sellers."
+ byz.1004.a:0 "Continue protectionism"
+ byz.1004.b:0 "State market"
+ byz.1004.c:0 "Free market"
+ 
+ byz.1005.t:0 "Legislative reforms"
+ byz.1005.d:0 "It's time to determine who and under what circumstances is more equal in laws, who is right, who is to blame."
+ byz.1005.a:0 "No reforms"
+ byz.1005.b:0 "Equal laws"
+ byz.1005.c:0 "Free laws"
+ 
+ byz_ita.1.t:0 "World Missionary Conference"
+ byz_ita.1.d:0 "It's time to end our grievances, because we are all Christians, we are not enemies. We must build this world together so that God will be proud of us."
+ byz_ita.1.a:0 "Ave Maria"
+
+ byz_ita.5.t:0 "The results of the conference"
+ byz_ita.5.d:0 "After much debate, it was decided to begin the process of uniting Catholicism and Christianity into one single region, this process will obviously take more than one year, but its outcome will have a positive impact in the future."
+ byz_ita.5.a:0 "Today we are united again"
+
+ byz_ita.10.t:0 "To get married"
+ byz_ita.10.d:0 "Today our Emperor wrote a letter to the Italian King in order to consolidate relations between our countries. The essence of this letter is that the Emperor offers to marry his crown Prince to the daughter of the Italian King."
+ byz_ita.10.a:0 "Italians will obviously be happy"
+
+ byz_ita.15.t:0 "Italian Uniate"
+ byz_ita.15.d:0 "What a sad event, the death of the Italian King's family was clearly not part of our original plans, but now Italy is with us, so even in this there is a plus."
+ byz_ita.15.a:0 "Italy is with us again"
+ 
+ #senat meeting
+ 
+ byz_senat.1.t:0 "Ежегодное собрание сената"
+ byz_senat.1.d:0 ""
+ byz_senat.1.a:0 ""
+ 
+ byz_senat.2.t:0 "Ежегодное собрание сената"
+ byz_senat.2.d:0 ""
+ byz_senat.2.a:0 ""
+ 
+ byz_senat.3.t:0 "Ежегодное собрание сената"
+ byz_senat.3.d:0 ""
+ byz_senat.3.a:0 ""
+ 
+ byz_senat.4.t:0 "Ежегодное собрание сената"
+ byz_senat.4.d:0 ""
+ byz_senat.4.a:0 ""
+ 
+ byz_senat.5.t:0 "Ежегодное собрание сената"
+ byz_senat.5.d:0 ""
+ byz_senat.5.a:0 ""
+ 
+ byz_senat.6.t:0 "Ежегодное собрание сената"
+ byz_senat.6.d:0 ""
+ byz_senat.6.a:0 ""
+ 
+ byz_senat.7.t:0 "Ежегодное собрание сената"
+ byz_senat.7.d:0 ""
+ byz_senat.7.a:0 ""
+ 
+ byz_senat.8.t:0 "Ежегодное собрание сената"
+ byz_senat.8.d:0 ""
+ byz_senat.8.a:0 ""
+ 
+ byz_senat.9.t:0 "Ежегодное собрание сената"
+ byz_senat.9.d:0 ""
+ byz_senat.9.a:0 ""
+ 
+ byz_senat.10.t:0 "Ежегодное собрание сената"
+ byz_senat.10.d:0 ""
+ byz_senat.10.a:0 ""
+ 
+ byz_senat.11.t:0 "Ежегодное собрание сената"
+ byz_senat.11.d:0 ""
+ byz_senat.11.a:0 ""
+ 
+ #city
+ 
+ LONDINIUM:0 "Londinium"
+ 
+ #scripted_localisation
+ 
+ rolling_faction_of_biz_im:0 "§0 Imperial Faction§!"
+rulling_faction_of_bus_gov:0 "§General's Faction§!"
+ruling_faction_of_by_mur:0 "§Trade faction§!"
+rolling_faction_of_by_dem:0 "§2 People's Faction§!"
+rolling_faction_of_by_dimer:0 "Coalition §Trade§! and §2 of the People's§! Factions"
+rolling_faction_of_by_improv:0 "Coalition §0 Imperial§! and §General's§! Fractions"
+rolling_faction_of_by_none:0 "There is no ruling faction"
+biz_none_place:0 ""
+ 
+#peace
+
+BIZ_win_BULL:0 "Romea was able to conquer the lands of Bulgaria."
+BYZ_win_ALL:0 "Romea was able to conquer the lands of Albania."
+BIZ_win_SER:0 "Romea was able to conquer the lands of Serbia."
+BY_win_BOS:0 "Romea was able to conquer the lands of Bosnia."
+
+CPT_win_KIR:0 "The Copts were able to conquer Cyrenaica."
+KIR_win_CPT:0 "The Copts could not achieve victory."
+
+CPT_win_TRI:0 "Copts were able to conquer Tripolitania."
+TRI_win_CPT:0 "The Copts could not achieve victory."
